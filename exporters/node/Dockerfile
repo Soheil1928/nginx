@@ -1,1 +1,1 @@
-FROM prom/node-exporter
+FROM grafana/grafana
